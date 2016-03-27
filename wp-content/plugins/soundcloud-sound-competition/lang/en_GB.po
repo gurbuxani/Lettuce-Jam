@@ -1,0 +1,265 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: soundcloud-sound-competition-v1\n"
+"POT-Creation-Date: 2014-06-03 12:24-0000\n"
+"PO-Revision-Date: 2014-06-03 12:24-0000\n"
+"Last-Translator: Kenneth Berentzen <post@lightdigitalmedia.com>\n"
+"Language-Team: Kenneth Berentzen <post@lightdigitalmedia.com>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../Classes/class-admin-lic.php:59
+msgid "Plugin License Options"
+msgstr ""
+
+#: ../Classes/class-admin-lic.php:68
+msgid "License Key"
+msgstr ""
+
+#: ../Classes/class-admin-lic.php:72
+msgid "Enter your license key"
+msgstr ""
+
+#: ../Classes/class-admin-lic.php:78 ../Classes/class-admin-lic.php:85
+msgid "Activate License"
+msgstr ""
+
+#: ../Classes/class-admin-lic.php:82
+msgid "active"
+msgstr ""
+
+#: ../Classes/class-admin-remixers.php:27
+#: ../Classes/class-admin-settings.php:27
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../Classes/class-admin-remixers.php:34
+msgid "Sound contests"
+msgstr ""
+
+#: ../Classes/class-admin-remixers.php:100
+msgid "participants"
+msgstr ""
+
+#: ../Classes/class-admin-remixers.php:144
+msgid "ID"
+msgstr ""
+
+#: ../Classes/class-admin-remixers.php:145
+msgid "Star"
+msgstr ""
+
+#: ../Classes/class-admin-remixers.php:146
+msgid "Name"
+msgstr ""
+
+#: ../Classes/class-admin-remixers.php:147
+msgid "Sound name"
+msgstr ""
+
+#: ../Classes/class-admin-remixers.php:148
+msgid "Email"
+msgstr ""
+
+#: ../Classes/class-admin-remixers.php:149
+msgid "Votes"
+msgstr ""
+
+#: ../Classes/class-admin-remixers.php:150
+msgid "SC Date"
+msgstr ""
+
+#: ../Classes/class-admin-settings.php:34
+msgid "Settings"
+msgstr ""
+
+#: ../Classes/class-admin-settings.php:70
+msgid "SoundCloud"
+msgstr ""
+
+#: ../Classes/class-admin-settings.php:74
+msgid "Soundcloud Account Details"
+msgstr ""
+
+#: ../Classes/class-admin-settings.php:75
+msgid "Soundcloud Redirect URI"
+msgstr ""
+
+#: ../Classes/class-admin-settings.php:77
+msgid "Soundcloud Client ID"
+msgstr ""
+
+#: ../Classes/class-admin-settings.php:79
+msgid "Soundcloud Client Secret"
+msgstr ""
+
+#: ../Classes/class-admin-settings.php:81
+msgid "Comp database name"
+msgstr ""
+
+#: ../Classes/class-admin-settings.php:90
+msgid "Facebook"
+msgstr ""
+
+#: ../Classes/class-admin-settings.php:94
+msgid "Voting system, Facebook application"
+msgstr ""
+
+#: ../Classes/class-admin-settings.php:96
+msgid "Voting type"
+msgstr ""
+
+#: ../Classes/class-admin-settings.php:99
+msgid "Session voting (Uses php session, less secure)"
+msgstr ""
+
+#: ../Classes/class-admin-settings.php:100
+msgid "Facebook voting (Uses facebook app, very secure)"
+msgstr ""
+
+#: ../Classes/class-admin-settings.php:102
+msgid "Facebook App ID"
+msgstr ""
+
+#: ../Classes/class-admin-settings.php:104
+msgid "Facebook App Secret"
+msgstr ""
+
+#: ../Classes/class-admin-settings.php:114
+msgid "Contest"
+msgstr ""
+
+#: ../Classes/class-admin-settings.php:118
+msgid "Current Contest Page"
+msgstr ""
+
+#: ../Classes/class-admin-settings.php:119
+msgid "WordPress SoundCloud Connect Page URL"
+msgstr ""
+
+#: ../Classes/class-admin-settings.php:123
+msgid "WordPress List Entrees Page URL"
+msgstr ""
+
+#: ../Classes/class-admin-settings.php:127
+msgid "More information Page/Post URL"
+msgstr ""
+
+#: ../Classes/class-admin-settings.php:130
+msgid "Entries preview type"
+msgstr ""
+
+#: ../Classes/class-admin-settings.php:133
+msgid "Image list (profile pictures from entrees side by side)"
+msgstr ""
+
+#: ../Classes/class-admin-settings.php:134
+msgid "Sound list (more detail and preview in the list)"
+msgstr ""
+
+#: ../Classes/class-admin-settings.php:143
+msgid "Misc"
+msgstr ""
+
+#: ../Classes/class-admin-settings.php:147
+msgid "Contest List Entrees"
+msgstr ""
+
+#: ../Classes/class-admin-settings.php:148
+msgid "Facebook comments box width"
+msgstr ""
+
+#: ../Classes/class-admin-settings.php:150
+msgid "Facebook comments amount"
+msgstr ""
+
+#: ../Classes/class-helper-functions.php:196
+msgid "Donate"
+msgstr ""
+
+#: ../Classes/class-helper-functions.php:200
+msgid "Support"
+msgstr ""
+
+#: ../Classes/class-helper-functions.php:208
+msgid "You need to buy a license to activate this function"
+msgstr ""
+
+#: ../Classes/class-helper-functions.php:211
+msgid "Get License"
+msgstr ""
+
+#: ../Classes/class-remixers.php:217
+msgid "All entrees"
+msgstr ""
+
+#: ../Classes/class-sc-connect.php:72
+msgid "Error"
+msgstr ""
+
+#: ../Classes/class-sc-connect.php:90
+msgid "logged in"
+msgstr ""
+
+#: ../Classes/class-sc-connect.php:90
+msgid "logout"
+msgstr ""
+
+#: ../Classes/class-sc-connect.php:245
+msgid "Email not valid, please correct your email"
+msgstr ""
+
+#: ../Classes/class-sc-connect.php:251
+msgid "Your sound is uploaded! The url to your sound is"
+msgstr ""
+
+#: ../Classes/class-sc-connect.php:254
+msgid "Share your sound"
+msgstr ""
+
+#: ../Classes/class-sc-connect.php:257
+msgid "Back to"
+msgstr ""
+
+#: ../Classes/class-sc-connect.php:258
+msgid "Competition Main Page"
+msgstr ""
+
+#: ../Classes/class-sc-connect.php:264
+msgid "Select sound! The url to your sound is"
+msgstr ""
+
+#: ../Classes/class-sc-connect.php:283
+msgid "Please refreash your browser"
+msgstr ""
+
+#: ../view/print_all_sound.php:9 ../view/print_one.php:9
+msgid "Uploaded by"
+msgstr ""
+
+#: ../view/print_all_sound.php:17 ../view/print_one.php:17
+msgid "Voted"
+msgstr ""
+
+#: ../view/print_all_sound.php:18 ../view/print_all_sound.php:23
+#: ../view/print_all_sound.php:30 ../view/print_one.php:18
+#: ../view/print_one.php:23 ../view/print_one.php:32
+msgid "votes"
+msgstr ""
+
+#: ../view/print_all_sound.php:22 ../view/print_one.php:22
+msgid "Login to Vote"
+msgstr ""
+
+#: ../view/print_all_sound.php:29 ../view/print_one.php:30
+msgid "Vote now"
+msgstr ""

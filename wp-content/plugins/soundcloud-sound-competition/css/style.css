@@ -1,0 +1,293 @@
+/* 
+    Document   : style
+    Created on : 29.jun.2012, 15:41:47
+    Author     : Kenneth Berentzen
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* Facebook button */
+.ken-remix-comp-fb-button-voted {
+	-moz-box-shadow:inset 0px 1px 0px 0px #b8b8b8;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #b8b8b8;
+	box-shadow:inset 0px 1px 0px 0px #b8b8b8;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #a6a6a6), color-stop(1, #a6a6a6));
+	background:-moz-linear-gradient(top, #a6a6a6 5%, #a6a6a6 100%);
+	background:-webkit-linear-gradient(top, #a6a6a6 5%, #a6a6a6 100%);
+	background:-o-linear-gradient(top, #a6a6a6 5%, #a6a6a6 100%);
+	background:-ms-linear-gradient(top, #a6a6a6 5%, #a6a6a6 100%);
+	background:linear-gradient(to bottom, #a6a6a6 5%, #a6a6a6 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#a6a6a6', endColorstr='#a6a6a6',GradientType=0);
+	background-color:#a6a6a6;
+	border:1px solid #757575;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:arial;
+	font-size:12px;
+	font-weight:bold;
+	padding:0px 5px;
+	text-decoration:none;
+}
+
+.ken-remix-comp-fb-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #7a8eb9;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #7a8eb9;
+	box-shadow:inset 0px 1px 0px 0px #7a8eb9;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #637aad), color-stop(1, #5972a7));
+	background:-moz-linear-gradient(top, #637aad 5%, #5972a7 100%);
+	background:-webkit-linear-gradient(top, #637aad 5%, #5972a7 100%);
+	background:-o-linear-gradient(top, #637aad 5%, #5972a7 100%);
+	background:-ms-linear-gradient(top, #637aad 5%, #5972a7 100%);
+	background:linear-gradient(to bottom, #637aad 5%, #5972a7 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#637aad', endColorstr='#5972a7',GradientType=0);
+	background-color:#637aad;
+	border:1px solid #314179;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:arial;
+	font-size:12px;
+	font-weight:bold;
+	padding:0px 5px;
+	text-decoration:none;
+}
+.ken-remix-comp-fb-button:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #5972a7), color-stop(1, #637aad));
+	background:-moz-linear-gradient(top, #5972a7 5%, #637aad 100%);
+	background:-webkit-linear-gradient(top, #5972a7 5%, #637aad 100%);
+	background:-o-linear-gradient(top, #5972a7 5%, #637aad 100%);
+	background:-ms-linear-gradient(top, #5972a7 5%, #637aad 100%);
+	background:linear-gradient(to bottom, #5972a7 5%, #637aad 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#5972a7', endColorstr='#637aad',GradientType=0);
+	background-color:#5972a7;
+	color:#ffffff;
+}
+.ken-remix-comp-fb-button:active {
+	position:relative;
+	top:1px;
+}
+.ken-remix-comp-fb-button-f {
+	position:relative;
+	top:2px;
+	font-size:15px;
+	margin:5px;
+	padding-right: 8px;
+	/*border-style:solid;
+	border-right-width:1px;
+	border-right-style: thin;
+	border-right-color: #333;*/
+}
+
+#ken-remix-comp-nb-red {
+	width: 400px;
+	padding: 5px;
+	font-size: .75em;
+	border: 1px solid #ccc;
+	background: #eee;
+	margin: 0px;
+	color: red;
+}
+
+/*
+#ken_nb {
+width: 400px;
+padding: 5px;
+font-size: .75em;
+border: 1px solid #ccc;
+background: #eee;
+}
+*/
+
+#ken-remix-comp-latest {
+margin-bottom: 5px;
+background: url(../images/button-latest.png) no-repeat 0 0;
+height: 21px;
+width: 89px;
+display: inline-block;
+text-indent: -9999px;
+opacity: 0.6;
+}
+#ken-remix-comp-latest:hover {
+opacity: 1;
+}
+
+#ken-remix-comp-rated {
+margin-bottom: 5px;
+background: url(../images/button-rating.png) no-repeat 0 0;
+height: 21px;
+width: 90px;
+display: inline-block;
+text-indent: -9999px;
+opacity: 0.6;
+}
+#ken-remix-comp-rated:hover {
+opacity: 1;
+}
+
+#ken-remix-comp-upload {
+margin-bottom: 5px;
+background: url(../images/upload.png) no-repeat 0 0;
+height: 29px;
+width: 101px;
+display: inline-block;
+text-indent: -9999px;
+opacity: 0.6;
+}
+#ken-remix-comp-upload:hover {
+opacity: 1;
+}
+#ken-remix-comp-info {
+margin-bottom: 5px;
+margin-right: 5px;
+background: url(../images/info.png) no-repeat 0 0;
+height: 29px;
+width: 73px;
+display: inline-block;
+text-indent: -9999px;
+opacity: 0.6;
+}
+#ken-remix-comp-info:hover {
+opacity: 1;
+}
+#ken-remix-comp-connect {
+background: url(../images/connect.png) no-repeat 0 0;
+height: 29px;
+width: 242px;
+display: inline-block;
+text-indent: -9999px;
+opacity: 0.6;
+}
+#ken-remix-comp-connect:hover {
+opacity: 1;
+}
+#ken-remix-comp-disconnect {
+background: url(../images/disconnect.png) no-repeat 0 0;
+height: 29px;
+width: 140px;
+display: inline-block;
+text-indent: -9999px;
+position: absolute;
+top: 28px;
+right: 10px;
+opacity: 0.6;
+}
+#ken-remix-comp-disconnect:hover {
+opacity: 1;
+}
+
+#ken-remix-comp-facebook-p{
+	background-image: url(../images/facebook_0.PNG);
+	background-repeat: no-repeat;
+	position: relative;
+	bottom:0px;
+	margin:0px;
+	padding:0px;
+	float:left;
+	width:88px;
+}
+#ken-remix-comp-google-p{
+	position:relative;
+	margin:0px;
+	padding:0px;
+	float:left;
+	width:60px;
+}
+#ken-remix-comp-twitter-p{
+	position:relative;
+	margin:0px;
+	padding:0px;
+	float:left;
+	width:82px;
+}
+
+#ken-remix-comp-user-image {
+        float:left;
+        margin-right: 5px;
+        opacity:0.9;
+        filter:alpha(opacity=90); /* For IE8 and earlier */
+}
+
+#ken-remix-comp-user-image a:hover {
+        opacity:0.4;
+        filter:alpha(opacity=40); /* For IE8 and earlier */
+}
+
+#ken-remix-comp-user-image a:visited {
+        border: 1px solid #ccc;
+}
+#ken-remix-comp-clear {
+	clear:both;
+}
+
+/* Wrapp single entree */
+#ken-remix-comp-r-wrap{
+position:relative;
+margin-bottom: 10px;
+background: #eee;
+border: 1px solid #ccc;
+padding: 4px 7px;
+}
+
+/* vote */
+.ken-remix-comp-r-vote{
+position:absolute;
+padding: 4px 7px;
+top:0;
+right:0;
+width: 150px;
+text-align: right;
+border: 0px solid #000;
+}
+
+/* vote */
+#ken-remix-comp-r-votes{
+font-size: 10px;
+margin-right: 3px;
+}
+
+/* form ------------------------------------ */
+
+#ken-remix-comp select, 
+#ken-remix-comp textarea, 
+#ken-remix-comp input.text  {
+	-moz-box-shadow: inset 1px 4px 9px -6px rgba(0,0,0,0.5); 
+	-webkit-box-shadow: inset 1px 4px 9px -6px rgba(0, 0, 0, 0.5); 
+	box-shadow: inset 1px 4px 9px -6px rgba(0,0,0,0.5);
+	border:0; 
+	padding:10px; 
+	font-size:1em; 
+	/*font-family:Arial, sans-serif; */
+	color:#aaa; 
+	border:solid 1px #ccc; 
+	margin:0 0 20px; 
+	width:400px;
+    margin-bottom:8px;
+}
+
+/* On focus */
+#ken-remix-comp input:focus, 
+#ken-remix-comp select:focus { 
+	border:solid 1px #EEA34A; 
+}
+
+#ken-remix-comp option {
+	color:#aaa; 
+}
+
+#ken-remix-comp input[type=submit] {
+	border:solid 1px #ccc; 
+	padding:10px 20px; 
+	margin:0 0 20px; 
+	/*font-family:Arial, sans-serif; */
+	font-size:1.2em;
+	text-transform:uppercase;
+	font-weight:bold;
+	color:#333;
+	cursor:pointer;
+}
+
+#ken-remix-comp input[type=submit]:hover {
+    background: #777;
+    box-shadow: 0px 0px 1px #777;
+}

@@ -1,0 +1,265 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: soundcloud-sound-competition-v1\n"
+"POT-Creation-Date: 2014-06-03 12:24-0000\n"
+"PO-Revision-Date: 2014-06-09 15:56+0100\n"
+"Last-Translator: jelena kovacevic <jecajeca260@gmail.com>\n"
+"Language-Team: Kenneth Berentzen <post@lightdigitalmedia.com>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../Classes/class-admin-lic.php:59
+msgid "Plugin License Options"
+msgstr "Opciones de Licencia del Plugin"
+
+#: ../Classes/class-admin-lic.php:68
+msgid "License Key"
+msgstr "Clave de Licencia"
+
+#: ../Classes/class-admin-lic.php:72
+msgid "Enter your license key"
+msgstr "Introduzca la clave de su licencia"
+
+#: ../Classes/class-admin-lic.php:78 ../Classes/class-admin-lic.php:85
+msgid "Activate License"
+msgstr "Activar Licencia"
+
+#: ../Classes/class-admin-lic.php:82
+msgid "active"
+msgstr "Activar"
+
+#: ../Classes/class-admin-remixers.php:27
+#: ../Classes/class-admin-settings.php:27
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Usted no tiene suficientes permisos para acceder a esta página."
+
+#: ../Classes/class-admin-remixers.php:34
+msgid "Sound contests"
+msgstr "Concursos de sonido"
+
+#: ../Classes/class-admin-remixers.php:100
+msgid "participants"
+msgstr "participantes"
+
+#: ../Classes/class-admin-remixers.php:144
+msgid "ID"
+msgstr "ID"
+
+#: ../Classes/class-admin-remixers.php:145
+msgid "Star"
+msgstr "Estrella"
+
+#: ../Classes/class-admin-remixers.php:146
+msgid "Name"
+msgstr "Nombre"
+
+#: ../Classes/class-admin-remixers.php:147
+msgid "Sound name"
+msgstr "Nombre del Sonido"
+
+#: ../Classes/class-admin-remixers.php:148
+msgid "Email"
+msgstr "Email"
+
+#: ../Classes/class-admin-remixers.php:149
+msgid "Votes"
+msgstr "Votos"
+
+#: ../Classes/class-admin-remixers.php:150
+msgid "SC Date"
+msgstr "Fecha de SC"
+
+#: ../Classes/class-admin-settings.php:34
+msgid "Settings"
+msgstr "Configuraciones"
+
+#: ../Classes/class-admin-settings.php:70
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: ../Classes/class-admin-settings.php:74
+msgid "Soundcloud Account Details"
+msgstr "Detalles de la Cuenta SoundCloud"
+
+#: ../Classes/class-admin-settings.php:75
+msgid "Soundcloud Redirect URI"
+msgstr "URI de Redirección de SoundCloud"
+
+#: ../Classes/class-admin-settings.php:77
+msgid "Soundcloud Client ID"
+msgstr "ID del Cliente de SoundCloud"
+
+#: ../Classes/class-admin-settings.php:79
+msgid "Soundcloud Client Secret"
+msgstr "Clave Secreta del Cliente de SoundCloud"
+
+#: ../Classes/class-admin-settings.php:81
+msgid "Comp database name"
+msgstr "Nombre de la base de datos Comp"
+
+#: ../Classes/class-admin-settings.php:90
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../Classes/class-admin-settings.php:94
+msgid "Voting system, Facebook application"
+msgstr "Sistema de votación,  aplicación de Facebook"
+
+#: ../Classes/class-admin-settings.php:96
+msgid "Voting type"
+msgstr "Tipo de votación"
+
+#: ../Classes/class-admin-settings.php:99
+msgid "Session voting (Uses php session, less secure)"
+msgstr "Votación por Sesión (Usa sesión php, menos seguro)"
+
+#: ../Classes/class-admin-settings.php:100
+msgid "Facebook voting (Uses facebook app, very secure)"
+msgstr "Votación con Facebook (Usa la aplicación de Facebook, muy seguro)"
+
+#: ../Classes/class-admin-settings.php:102
+msgid "Facebook App ID"
+msgstr "ID de la App de Facebook "
+
+#: ../Classes/class-admin-settings.php:104
+msgid "Facebook App Secret"
+msgstr "Clave Secreta de la App de Facebook"
+
+#: ../Classes/class-admin-settings.php:114
+msgid "Contest"
+msgstr "Concurso"
+
+#: ../Classes/class-admin-settings.php:118
+msgid "Current Contest Page"
+msgstr "Página Actual de Concurso"
+
+#: ../Classes/class-admin-settings.php:119
+msgid "WordPress SoundCloud Connect Page URL"
+msgstr "URL de la Página de Conexión de SoundCloud de WordPress "
+
+#: ../Classes/class-admin-settings.php:123
+msgid "WordPress List Entrees Page URL"
+msgstr "URL de la Página de Entradas de la Lista de WordPress"
+
+#: ../Classes/class-admin-settings.php:127
+msgid "More information Page/Post URL"
+msgstr "URL de la Página/Post para más información "
+
+#: ../Classes/class-admin-settings.php:130
+msgid "Entries preview type"
+msgstr "Tipo de vista previa de entradas "
+
+#: ../Classes/class-admin-settings.php:133
+msgid "Image list (profile pictures from entrees side by side)"
+msgstr "Lista de imagen (imágenes de perfil para entradas de lado a lado)"
+
+#: ../Classes/class-admin-settings.php:134
+msgid "Sound list (more detail and preview in the list)"
+msgstr "Lista de sonidos (más detalle y vista previa en  la lista)"
+
+#: ../Classes/class-admin-settings.php:143
+msgid "Misc"
+msgstr "Misc"
+
+#: ../Classes/class-admin-settings.php:147
+msgid "Contest List Entrees"
+msgstr "Entradas de Lista de Concurso "
+
+#: ../Classes/class-admin-settings.php:148
+msgid "Facebook comments box width"
+msgstr "Ancho del box de comentarios de Facebook"
+
+#: ../Classes/class-admin-settings.php:150
+msgid "Facebook comments amount"
+msgstr "Cantidad de comentarios de Facebook"
+
+#: ../Classes/class-helper-functions.php:196
+msgid "Donate"
+msgstr "Donar"
+
+#: ../Classes/class-helper-functions.php:200
+msgid "Support"
+msgstr "Soporte"
+
+#: ../Classes/class-helper-functions.php:208
+msgid "You need to buy a license to activate this function"
+msgstr "Usted necesita comprar una licencia para activar esta función"
+
+#: ../Classes/class-helper-functions.php:211
+msgid "Get License"
+msgstr "Obtener Licencia"
+
+#: ../Classes/class-remixers.php:217
+msgid "All entrees"
+msgstr "Todas las entradas"
+
+#: ../Classes/class-sc-connect.php:72
+msgid "Error"
+msgstr "Error"
+
+#: ../Classes/class-sc-connect.php:90
+msgid "logged in"
+msgstr "Loguearse"
+
+#: ../Classes/class-sc-connect.php:90
+msgid "logout"
+msgstr "Desloguearse"
+
+#: ../Classes/class-sc-connect.php:245
+msgid "Email not valid, please correct your email"
+msgstr "Email no válido, por favor corríjalo."
+
+#: ../Classes/class-sc-connect.php:251
+msgid "Your sound is uploaded! The url to your sound is"
+msgstr "¡Su sonido fue cargado! La url de su sonido es"
+
+#: ../Classes/class-sc-connect.php:254
+msgid "Share your sound"
+msgstr "Compartir su sonido"
+
+#: ../Classes/class-sc-connect.php:257
+msgid "Back to"
+msgstr "Regresar a"
+
+#: ../Classes/class-sc-connect.php:258
+msgid "Competition Main Page"
+msgstr "Página principal de competición"
+
+#: ../Classes/class-sc-connect.php:264
+msgid "Select sound! The url to your sound is"
+msgstr "¡Seleccione el sonido! La url para su sonido es"
+
+#: ../Classes/class-sc-connect.php:283
+msgid "Please refreash your browser"
+msgstr "Por favor actualice el navegador"
+
+#: ../view/print_all_sound.php:9 ../view/print_one.php:9
+msgid "Uploaded by"
+msgstr "Subido por"
+
+#: ../view/print_all_sound.php:17 ../view/print_one.php:17
+msgid "Voted"
+msgstr "Votado"
+
+#: ../view/print_all_sound.php:18 ../view/print_all_sound.php:23
+#: ../view/print_all_sound.php:30 ../view/print_one.php:18
+#: ../view/print_one.php:23 ../view/print_one.php:32
+msgid "votes"
+msgstr "votos"
+
+#: ../view/print_all_sound.php:22 ../view/print_one.php:22
+msgid "Login to Vote"
+msgstr "Loguearse para Votar"
+
+#: ../view/print_all_sound.php:29 ../view/print_one.php:30
+msgid "Vote now"
+msgstr "Votar ahora"

@@ -1,0 +1,265 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: soundcloud-sound-competition-v1\n"
+"POT-Creation-Date: 2014-06-03 12:24-0000\n"
+"PO-Revision-Date: 2014-06-06 08:25+0100\n"
+"Last-Translator: Borisa Djuraskovic <borisad@webhostinghub.com>\n"
+"Language-Team: Kenneth Berentzen <post@lightdigitalmedia.com>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../Classes/class-admin-lic.php:59
+msgid "Plugin License Options"
+msgstr "Opcije plugin licence"
+
+#: ../Classes/class-admin-lic.php:68
+msgid "License Key"
+msgstr "Ključ licence"
+
+#: ../Classes/class-admin-lic.php:72
+msgid "Enter your license key"
+msgstr "Unesite vaš ključ licence"
+
+#: ../Classes/class-admin-lic.php:78 ../Classes/class-admin-lic.php:85
+msgid "Activate License"
+msgstr "Aktivirajte licencu"
+
+#: ../Classes/class-admin-lic.php:82
+msgid "active"
+msgstr "aktivno"
+
+#: ../Classes/class-admin-remixers.php:27
+#: ../Classes/class-admin-settings.php:27
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nema dovoljno dozvola da biste pristupili ovoj stranici."
+
+#: ../Classes/class-admin-remixers.php:34
+msgid "Sound contests"
+msgstr "Takmičenje zvuka"
+
+#: ../Classes/class-admin-remixers.php:100
+msgid "participants"
+msgstr "učesnici"
+
+#: ../Classes/class-admin-remixers.php:144
+msgid "ID"
+msgstr "ID"
+
+#: ../Classes/class-admin-remixers.php:145
+msgid "Star"
+msgstr "Zvezda"
+
+#: ../Classes/class-admin-remixers.php:146
+msgid "Name"
+msgstr "Ime"
+
+#: ../Classes/class-admin-remixers.php:147
+msgid "Sound name"
+msgstr "Ime zvuka"
+
+#: ../Classes/class-admin-remixers.php:148
+msgid "Email"
+msgstr "Email"
+
+#: ../Classes/class-admin-remixers.php:149
+msgid "Votes"
+msgstr "Glasovi"
+
+#: ../Classes/class-admin-remixers.php:150
+msgid "SC Date"
+msgstr "SC Datum"
+
+#: ../Classes/class-admin-settings.php:34
+msgid "Settings"
+msgstr "Postavke"
+
+#: ../Classes/class-admin-settings.php:70
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: ../Classes/class-admin-settings.php:74
+msgid "Soundcloud Account Details"
+msgstr "Detalji Soundcloud  naloga"
+
+#: ../Classes/class-admin-settings.php:75
+msgid "Soundcloud Redirect URI"
+msgstr "Soundcloud Redirektovan URI"
+
+#: ../Classes/class-admin-settings.php:77
+msgid "Soundcloud Client ID"
+msgstr "Soundcloud ID klijenta"
+
+#: ../Classes/class-admin-settings.php:79
+msgid "Soundcloud Client Secret"
+msgstr "Soundcloud tahni klijenat"
+
+#: ../Classes/class-admin-settings.php:81
+msgid "Comp database name"
+msgstr "Komp ime baze podataka"
+
+#: ../Classes/class-admin-settings.php:90
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../Classes/class-admin-settings.php:94
+msgid "Voting system, Facebook application"
+msgstr "Sistem glasanja, Facebook aplikacija"
+
+#: ../Classes/class-admin-settings.php:96
+msgid "Voting type"
+msgstr "Tip glasanja"
+
+#: ../Classes/class-admin-settings.php:99
+msgid "Session voting (Uses php session, less secure)"
+msgstr "Sesije glasanja (koristi php sesiju, manje sigurnu)"
+
+#: ../Classes/class-admin-settings.php:100
+msgid "Facebook voting (Uses facebook app, very secure)"
+msgstr "Facebook glasanje (koristi facebook app, veoma sigurnu)"
+
+#: ../Classes/class-admin-settings.php:102
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: ../Classes/class-admin-settings.php:104
+msgid "Facebook App Secret"
+msgstr "Facebook App Secret"
+
+#: ../Classes/class-admin-settings.php:114
+msgid "Contest"
+msgstr "Takmičenje"
+
+#: ../Classes/class-admin-settings.php:118
+msgid "Current Contest Page"
+msgstr "Stranica trenutnog takmičenja"
+
+#: ../Classes/class-admin-settings.php:119
+msgid "WordPress SoundCloud Connect Page URL"
+msgstr "WordPress SoundCloud URL stranice takmičenja"
+
+#: ../Classes/class-admin-settings.php:123
+msgid "WordPress List Entrees Page URL"
+msgstr "URL WordPress liste unosa stranice"
+
+#: ../Classes/class-admin-settings.php:127
+msgid "More information Page/Post URL"
+msgstr "Još informacija Str./Posta URL"
+
+#: ../Classes/class-admin-settings.php:130
+msgid "Entries preview type"
+msgstr "Entries preview type"
+
+#: ../Classes/class-admin-settings.php:133
+msgid "Image list (profile pictures from entrees side by side)"
+msgstr "Slika liste (profilne slike sa unosa sa od strane do strane)"
+
+#: ../Classes/class-admin-settings.php:134
+msgid "Sound list (more detail and preview in the list)"
+msgstr "Lista zvuka (još detalja i pregled na listi)"
+
+#: ../Classes/class-admin-settings.php:143
+msgid "Misc"
+msgstr "Razno"
+
+#: ../Classes/class-admin-settings.php:147
+msgid "Contest List Entrees"
+msgstr "Lista unosa učesnika"
+
+#: ../Classes/class-admin-settings.php:148
+msgid "Facebook comments box width"
+msgstr "Širina Facebook pravougaonika komentara "
+
+#: ../Classes/class-admin-settings.php:150
+msgid "Facebook comments amount"
+msgstr "Količina Facebook komentara  "
+
+#: ../Classes/class-helper-functions.php:196
+msgid "Donate"
+msgstr "Donirati"
+
+#: ../Classes/class-helper-functions.php:200
+msgid "Support"
+msgstr "Podrška"
+
+#: ../Classes/class-helper-functions.php:208
+msgid "You need to buy a license to activate this function"
+msgstr "Morate da kupite licencu da biste aktivirali ovu funkciju"
+
+#: ../Classes/class-helper-functions.php:211
+msgid "Get License"
+msgstr "Nabaviti dozvolu"
+
+#: ../Classes/class-remixers.php:217
+msgid "All entrees"
+msgstr "Svi unosi"
+
+#: ../Classes/class-sc-connect.php:72
+msgid "Error"
+msgstr "Greška"
+
+#: ../Classes/class-sc-connect.php:90
+msgid "logged in"
+msgstr "uloguj se"
+
+#: ../Classes/class-sc-connect.php:90
+msgid "logout"
+msgstr "izloguj se"
+
+#: ../Classes/class-sc-connect.php:245
+msgid "Email not valid, please correct your email"
+msgstr "Email nije validan, unesite ispravan mail"
+
+#: ../Classes/class-sc-connect.php:251
+msgid "Your sound is uploaded! The url to your sound is"
+msgstr "Vaš zvuk je uploadovan! Url za vaš zvuk je"
+
+#: ../Classes/class-sc-connect.php:254
+msgid "Share your sound"
+msgstr "Podelite vaš zvuk"
+
+#: ../Classes/class-sc-connect.php:257
+msgid "Back to"
+msgstr "Nazad na"
+
+#: ../Classes/class-sc-connect.php:258
+msgid "Competition Main Page"
+msgstr "Glavna stranica takmičenja"
+
+#: ../Classes/class-sc-connect.php:264
+msgid "Select sound! The url to your sound is"
+msgstr "Izaberite zvuk! url od vašeg zvuka je"
+
+#: ../Classes/class-sc-connect.php:283
+msgid "Please refreash your browser"
+msgstr "Osvežite vaš pretraživač"
+
+#: ../view/print_all_sound.php:9 ../view/print_one.php:9
+msgid "Uploaded by"
+msgstr "Uploadovano od strane"
+
+#: ../view/print_all_sound.php:17 ../view/print_one.php:17
+msgid "Voted"
+msgstr "Glasano"
+
+#: ../view/print_all_sound.php:18 ../view/print_all_sound.php:23
+#: ../view/print_all_sound.php:30 ../view/print_one.php:18
+#: ../view/print_one.php:23 ../view/print_one.php:32
+msgid "votes"
+msgstr "glasovi"
+
+#: ../view/print_all_sound.php:22 ../view/print_one.php:22
+msgid "Login to Vote"
+msgstr "Login da biste glasali"
+
+#: ../view/print_all_sound.php:29 ../view/print_one.php:30
+msgid "Vote now"
+msgstr "Glasajte sada"

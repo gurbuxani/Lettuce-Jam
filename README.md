@@ -5,7 +5,7 @@ Lettuce Jam
 
 What if musicians could collaborate with each other on the itnernet as easily as software developers do? That was the inspiration behind creating Lettuce Jam. It's an open-source, collaborative platform where musicians can upload their songs (even if they are incomplete).
 
-* [How to use Lettuce Jam](youtube)
+* [Walkthrough](youtube)
 
 * [Promo video](https://youtu.be/ZuoQEBISs2I)
 

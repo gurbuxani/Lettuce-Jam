@@ -20,8 +20,8 @@ What if musicians could collaborate with each other on the itnernet as easily as
 * Installation:
 
 1. Click on 'Download ZIP' and save the .zip file on your computer. It requires 37.3 MB of storage space.
-2. Unzip the file. If you do not have any installed software that can handle .zip files, I recomend downloading 7zip from http://www.7-zip.org/
-3. Install wordpress.org on your server or your local host (your computer's hard drive). Here are the steps for making Wordpress run from your computer: https://make.wordpress.org/core/handbook/tutorials/installing-a-local-server/
+2. Unzip the file. If you do not have any installed software that can handle .zip files, I recomend [downloading 7zip](http://www.7-zip.org/).
+3. Install wordpress.org on your server or your local host (your computer's hard drive). Here are the steps for [making Wordpress run from your computer](https://make.wordpress.org/core/handbook/tutorials/installing-a-local-server/). 
 3. Log into your server's FTP and navigate into the htdocs folder. Upload the entire lettucejam-1-master folder (including all files and sub-folders) to the folder you are in. If you are hosting from your computer, just paste the lettucejam-1-master folder into your htdocs folder.
 4. Configure credentials for your website on "your_url"/lettucejam-1-master or localhost/lettucejam-1-master
  

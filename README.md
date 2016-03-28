@@ -7,7 +7,7 @@ What if musicians could collaborate with each other on the itnernet as easily as
 
 * [Promo video](https://youtu.be/ZuoQEBISs2I)
 
-* [URL](www.lettucejam.byethost5.com/wp/)
+* [URL](http://lettucejam.byethost5.com/wp/)
 
 * [Wiki](https://github.com/gurbuxani/lettucejam-1/wiki)
 

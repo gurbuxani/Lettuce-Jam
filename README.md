@@ -12,11 +12,13 @@ What if musicians could collaborate with each other on the itnernet as easily as
 * [Wiki](https://github.com/gurbuxani/lettucejam-1/wiki)
 
 * Desktop Screenshots:
+
  ![alt-text](http://i.imgur.com/tKkT2Go.png)
  ![alt-text](http://i.imgur.com/RKPbHfu.png)
  ![alt-text](http://i.imgur.com/T9gGWci.png)
 
 * Mobile Screenshots:
+
  ![alt-text](https://i.imgur.com/ew9Yo9D.png)
  ![alt-text](https://i.imgur.com/5wQl0PD.png)
  ![alt-text](https://i.imgur.com/laYNcrj.png)

@@ -23,7 +23,7 @@ What if musicians could collaborate with each other on the itnernet as easily as
  ![alt-text](https://i.imgur.com/5wQl0PD.png)
  ![alt-text](https://i.imgur.com/laYNcrj.png)
 
-* Installation:
+#### Installation:
 
 1. Click on 'Download ZIP' and save the .zip file on your computer. It requires 37.3 MB of storage space.
 2. Unzip the file. If you do not have any installed software that can handle .zip files, I recomend [downloading 7zip](http://www.7-zip.org/).

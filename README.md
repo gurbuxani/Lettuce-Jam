@@ -29,4 +29,4 @@ The default credentials are:
 Username: admin | 
 Password: admin
 
-This project is was made in 17 hours at the 2016 Open-Source [Mumbai Hackathon](www.mumbaihackathon.in)  by [Ashwin Gurbuxani](www.theashwin.com).
+This project was made in 17 hours at the 2016 Open-Source [Mumbai Hackathon](www.mumbaihackathon.in)  by [Ashwin Gurbuxani](www.theashwin.com).
